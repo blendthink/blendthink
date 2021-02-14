@@ -1,22 +1,11 @@
-### Hi there 👋
 
-<!--
-**blendthink/blendthink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub Stats
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=blendthink&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blendthink&theme=tokyonight&layout=compact" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### Summary
-
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=blendthink&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blendthink)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blendthink&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
