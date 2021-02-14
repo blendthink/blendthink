@@ -8,4 +8,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blendthink&theme=tokyonight&layout=compact" />
 </a>
 
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blendthink&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blendthink&theme=nord&margin-w=15&margin-h=30)](https://github.com/ryo-ma/github-profile-trophy)
