@@ -26,6 +26,7 @@
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=android-templates&theme=tokyonight)](https://github.com/blendthink/android-templates)
 
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=alliance-calendar&theme=tokyonight)](https://github.com/blendthink/alliance-calendar)
 
 ## GitHub Stats
 
