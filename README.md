@@ -22,11 +22,11 @@
 
 ## Developing
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=linkmark-app&theme=tokyonight)](https://github.com/blendthink/linkmark-app)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=flutter-mobile-template&theme=tokyonight)](https://github.com/blendthink/flutter-mobile-template)
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=android-templates&theme=tokyonight)](https://github.com/blendthink/android-templates)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=temporalobe&theme=tokyonight)](https://github.com/blendthink/temporalobe)
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=alliance-calendar&theme=tokyonight)](https://github.com/blendthink/alliance-calendar)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=android-diff-action&theme=tokyonight)](https://github.com/blendthink/android-diff-action)
 
 ## GitHub Stats
 
