@@ -19,7 +19,7 @@
 <a href="http://qiita.com/blendthink"><img src="https://qiita-badge.apiapi.app/s/blendthink/contributions.svg"/></a>
 <a href="http://qiita.com/blendthink"><img src="https://qiita-badge.apiapi.app/s/blendthink/followers.svg"/></a>
 
-## Activity Graph
+## Contribution Graph
 
 [![blendthink's github activity graph](https://activity-graph.herokuapp.com/graph?username=blendthink&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
