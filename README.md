@@ -19,10 +19,17 @@
 <a href="http://qiita.com/blendthink"><img src="https://qiita-badge.apiapi.app/s/blendthink/contributions.svg"/></a>
 <a href="http://qiita.com/blendthink"><img src="https://qiita-badge.apiapi.app/s/blendthink/followers.svg"/></a>
 
+## Activity Graph
+
+[![blendthink's github activity graph](https://activity-graph.herokuapp.com/graph?username=blendthink&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Developing
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=flutter-mobile-template&theme=tokyonight)](https://github.com/blendthink/flutter-mobile-template)
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=flutter-mobile-lints&theme=tokyonight)](https://github.com/blendthink/flutter-mobile-lints)
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=flutter-snippets&theme=tokyonight)](https://github.com/blendthink/flutter-snippets)
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=temporalobe&theme=tokyonight)](https://github.com/blendthink/temporalobe)
 
