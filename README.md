@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=blendthink&color=blue&style=flat)
+
 ## Use Often
 
 <a href="https://github.com/android"><img src="https://avatars.githubusercontent.com/u/32689599?s=50" hspace="5"/></a>
