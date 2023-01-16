@@ -2,24 +2,29 @@
 
 ## Use Often
 
+<a href="https://github.com/Flutter"><img src="https://avatars.githubusercontent.com/u/14101776?s=50" hspace="5"/></a>
+<a href="https://github.com/dart-lang"><img src="https://avatars.githubusercontent.com/u/1609975?s=50" hspace="5"/></a>
 <a href="https://github.com/android"><img src="https://avatars.githubusercontent.com/u/32689599?s=50" hspace="5"/></a>
 <a href="https://github.com/Kotlin"><img src="https://avatars.githubusercontent.com/u/1446536?s=50" hspace="5"/></a>
-<a href="https://github.com/Flutter"><img src="https://avatars.githubusercontent.com/u/14101776?s=50" hspace="5"/></a>
 <a href="https://github.com/apple"><img src="https://avatars.githubusercontent.com/u/10639145?s=50" hspace="5"/></a>
-<a href="https://github.com/Docker"><img src="https://avatars.githubusercontent.com/u/5429470?s=50" hspace="5"/></a>
-<a href="https://github.com/laravel"><img src="https://avatars.githubusercontent.com/u/958072?s=50" hspace="5"/></a>
-<a href="https://github.com/php"><img src="https://avatars.githubusercontent.com/u/25158?s=50" hspace="5"/></a>
-<a href="https://github.com/python"><img src="https://avatars.githubusercontent.com/u/1525981?s=50" hspace="5"/></a>
 <a href="https://github.com/google"><img src="https://avatars.githubusercontent.com/u/1342004?s=50" hspace="5"/></a>
 <a href="https://github.com/firebase"><img src="https://avatars.githubusercontent.com/u/1335026?s=50" hspace="5"/></a>
-<a href="https://github.com/aws"><img src="https://avatars.githubusercontent.com/u/2232217?s=50" hspace="5"/></a>
+<a href="https://github.com/Docker"><img src="https://avatars.githubusercontent.com/u/5429470?s=50" hspace="5"/></a>
 
-## SNS
+## Social Media
 
-[![Twitter](https://img.shields.io/twitter/follow/blendthink?style=social)](https://twitter.com/intent/follow?screen_name=blendthink)
+<!--
+https://shields.io
+https://simpleicons.org
+-->
 
-<a href="http://qiita.com/blendthink"><img src="https://qiita-badge.apiapi.app/s/blendthink/contributions.svg"/></a>
-<a href="http://qiita.com/blendthink"><img src="https://qiita-badge.apiapi.app/s/blendthink/followers.svg"/></a>
+[![Twitter](https://img.shields.io/badge/-@blendthink?style=social&logo=twitter&label=@blendthink)](https://twitter.com/blendthink)
+
+[![Zenn](https://img.shields.io/badge/-@blendthink?style=social&logo=zenn&label=@blendthink)](https://zenn.dev/blendthink)
+
+[![Qiita](https://img.shields.io/badge/-@blendthink?style=social&logo=qiita&label=@blendthink)](https://qiita.com/blendthink)
+
+[![Speaker Deck](https://img.shields.io/badge/-@blendthink?style=social&logo=speakerdeck&label=@blendthink)](https://speakerdeck.com/blendthink)
 
 ## Contribution Graph
 
@@ -27,15 +32,11 @@
 
 ## Developing
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=flutter-mobile-template&theme=tokyonight)](https://github.com/blendthink/flutter-mobile-template)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=elixir&theme=tokyonight)](https://github.com/blendthink/elixir)
+
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=value_class.dart&theme=tokyonight)](https://github.com/blendthink/value_class.dart)
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=flutter-mobile-lints&theme=tokyonight)](https://github.com/blendthink/flutter-mobile-lints)
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=flutter-snippets&theme=tokyonight)](https://github.com/blendthink/flutter-snippets)
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=temporalobe&theme=tokyonight)](https://github.com/blendthink/temporalobe)
-
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=android-diff-action&theme=tokyonight)](https://github.com/blendthink/android-diff-action)
 
 ## GitHub Stats
 
