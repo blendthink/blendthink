@@ -10,6 +10,7 @@
 <a href="https://github.com/google"><img src="https://avatars.githubusercontent.com/u/1342004?s=50" hspace="5"/></a>
 <a href="https://github.com/firebase"><img src="https://avatars.githubusercontent.com/u/1335026?s=50" hspace="5"/></a>
 <a href="https://github.com/Docker"><img src="https://avatars.githubusercontent.com/u/5429470?s=50" hspace="5"/></a>
+<a href="https://github.com/rust-lang"><img src="https://avatars.githubusercontent.com/u/5430905?s=50" hspace="5"/></a>
 
 ## Social Media
 
