@@ -29,7 +29,7 @@ https://simpleicons.org
 
 [![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=blendthink&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
 
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blendthink&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blendthink&theme=nord&margin-w=15&margin-h=15&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## LAPRAS SCORE
 
