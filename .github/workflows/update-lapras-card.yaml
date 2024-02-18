@@ -1,0 +1,20 @@
+name: Update LAPRAS Card
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: kawamataryo/lapras-card-readme@97beea07675cba3eded93eaeb71744413d7f8e8b # v1.3.0
+        with:
+          # https://lapras-card-generator.vercel.app
+          SHARE_ID: "blendthink"
+          ICON_FIRST: "#030E21"
+          ICON_SECOND: "#1688BF"
+          BACKGROUND_FIRST: "#020E27"
+          BACKGROUND_SECOND: "#0E5593"
+          LANG: "en"
