@@ -37,7 +37,7 @@ https://simpleicons.org
 
 [![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blendthink&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Lapras
+## LAPRAS SCORE
 
 <!--START_SECTION:lapras-card-->
 <!--END_SECTION:lapras-card-->
