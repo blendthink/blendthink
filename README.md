@@ -35,7 +35,12 @@ https://simpleicons.org
 
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=blendthink&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
-[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blendthink&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blendthink&theme=nord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Lapras
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ## Developing
 
