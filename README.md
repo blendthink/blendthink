@@ -1,16 +1,12 @@
-![Profile Views](https://komarev.com/ghpvc/?username=blendthink&color=blue&style=flat)
-
 <!--
 https://shields.io
 https://simpleicons.org
 -->
 
+![Profile Views](https://komarev.com/ghpvc/?username=blendthink&color=blue&style=flat)
 [![X](https://img.shields.io/badge/-@blendthink?style=social&logo=x&label=@blendthink)](https://x.com/blendthink)
-
 [![Zenn](https://img.shields.io/badge/-@blendthink?style=social&logo=zenn&label=@blendthink)](https://zenn.dev/blendthink)
-
 [![Qiita](https://img.shields.io/badge/-@blendthink?style=social&logo=qiita&label=@blendthink)](https://qiita.com/blendthink)
-
 [![Speaker Deck](https://img.shields.io/badge/-@blendthink?style=social&logo=speakerdeck&label=@blendthink)](https://speakerdeck.com/blendthink)
 
 ## Use Often
