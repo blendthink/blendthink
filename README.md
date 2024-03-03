@@ -41,7 +41,7 @@ https://simpleicons.org
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendthink&repo=elixir&theme=tokyonight)](https://github.com/blendthink/elixir)
 
-[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendfactory&repo=dvm&theme=tokyonight)](https://github.com/blendfacory/dvm)
+[![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=blendfactory&repo=dvm&theme=tokyonight)](https://github.com/blendfactory/dvm)
 
 [![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=yumemi-inc&repo=flutter-yumemi-lints&theme=tokyonight)](https://github.com/yumemi-inc/flutter-yumemi-lints)
 
